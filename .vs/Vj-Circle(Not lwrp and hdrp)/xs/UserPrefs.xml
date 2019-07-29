@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{03726B83-79E9-FF13-160A-A50466F5B564}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/vj10.cs">
+    <Files>
+      <File FileName="Assets/scripts/vj10.cs" Line="131" Column="10" />
+      <File FileName="Assets/scripts/vj3.cs" Line="52" Column="22" />
+      <File FileName="Assets/scripts/vj8.cs" />
+      <File FileName="Assets/scripts/vj6.cs" />
+      <File FileName="Assets/scripts/Vj5.cs" />
+      <File FileName="Assets/Lasp-master/Assets/Test/ParticleController.cs" />
+      <File FileName="Assets/scripts/Vj1.cs" />
+      <File FileName="Assets/scripts/CameraRotation.cs" />
+      <File FileName="Assets/scripts/ChengeSceane_2.cs" />
+      <File FileName="Assets/scripts/ChengeSceane_1.cs" />
+      <File FileName="Assets/scripts/CameraChenge.cs" />
+      <File FileName="Assets/scripts/vj4.cs" />
+      <File FileName="Assets/scripts/VerticalScroll.cs" />
+      <File FileName="Assets/sheder/HIdden.shader" />
+      <File FileName="Assets/scripts/vj2.cs" />
+      <File FileName="Assets/scripts/StartMultiDisplay.cs" />
+      <File FileName="Assets/sheder/Butadieneraymarchsampl.shader" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vj-Circle(Not lwrp and hdrp)" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e7c3afc1-7173-4407-8e25-a2955c7d3a16" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
