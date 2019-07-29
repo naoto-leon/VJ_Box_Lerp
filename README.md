@@ -2,5 +2,5 @@
 Vjで使用する素材の一つ　
 
 #### Boxモーション
-![Sine](https://user-images.githubusercontent.com/43961147/61839923-5be6f400-aeca-11e9-9b2c-0a1a55fb19c5.gif)
+![vj_box_gif](https://user-images.githubusercontent.com/43961147/62051983-91d00380-b24f-11e9-8c6f-b553a2dacde4.gif)
 *** 
