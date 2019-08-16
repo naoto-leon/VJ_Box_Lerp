@@ -1,4 +1,4 @@
-# VJ_Box_Lerp
+# [VJ]_Box_Lerp
 Vjで使用する素材の一つ　
 
 #### Boxモーション
